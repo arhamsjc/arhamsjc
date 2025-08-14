@@ -73,6 +73,19 @@ Proven ability to deliver high-impact features in enterprise and startup setting
 
 ---
 
+## 📈 LeetCode Stats & Streaks
+<p align="center">
+  <a href="https://leetcode.com/u/arhamsjc/">
+    <img src="https://leetcard.jacoblin.cool/arhamsjc?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/arhamsjc?theme=dark&ext=heatmap" alt="LeetCode Streak">
+</p>
+
+---
+
 ## 🎓 Education
 **B.Tech in Computer Science Engineering** — VIT, Vellore (2018–2022)  
 **CGPA:** 8.5 / 10  
@@ -83,15 +96,6 @@ Proven ability to deliver high-impact features in enterprise and startup setting
 - React Testing with Jest and Enzyme — *Udemy*  
 - Algorithmic Toolbox — *Coursera*  
 - Design and Analysis of Algorithms — *NPTEL*  
-
----
-
-## 📈 LeetCode Stats
-<p align="center">
-  <a href="https://leetcode.com/u/arhamsjc/">
-    <img src="https://leetcard.jacoblin.cool/arhamsjc?theme=dark&font=Baloo%20Chettan%202&ext=contest">
-  </a>
-</p>
 
 ---
 
