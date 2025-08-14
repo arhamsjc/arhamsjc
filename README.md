@@ -95,4 +95,11 @@ Proven ability to deliver high-impact features in enterprise and startup setting
 
 ---
 
+## 🤝 Open to
+- Frontend engineering roles (React, React Native, GraphQL)
+- Collaborative open-source React projects
+- Performance optimization and UI/UX-focused work
+
+---
+
 <p align="center">💬 Let's connect and build something amazing together!</p>
