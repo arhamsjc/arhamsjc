@@ -76,12 +76,8 @@ Proven ability to deliver high-impact features in enterprise and startup setting
 ## 📈 LeetCode Stats & Streaks
 <p align="center">
   <a href="https://leetcode.com/u/arhamsjc/">
-    <img src="https://leetcard.jacoblin.cool/arhamsjc?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/arhamsjc?theme=dark&ext=heatmap" alt="LeetCode Streak">
+  </a>
 </p>
 
 ---
