@@ -1,6 +1,8 @@
 <!-- Banner / Intro -->
 <h1 align="center">Hi 👋, I'm Arham Khan</h1>
-<h3 align="center">Frontend-focused Software Engineer | React • React Native • GraphQL</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=1200&font=Fira+Code&lines=Frontend-focused+Software+Engineer+%7C+React+•+React+Native+•+GraphQL&repeat=false" alt="Typing Animation">
+</p>
 
 <p align="center">
   <a href="mailto:arhamkhansjc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
