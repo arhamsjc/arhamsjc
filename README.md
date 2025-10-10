@@ -1,7 +1,7 @@
 <!-- Banner / Intro -->
 <h1 align="center">Hi 👋, I'm Arham Khan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1000&lines=Frontend-focused+Software+Engineer+%7C+React+•+React+Native+•+GraphQL&repeat=false&font=Fira+Code" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1000&lines=Frontend-focused+Software+Engineer+%7C+React+•+Javascript+•+GraphQL&repeat=false&font=Fira+Code" alt="Typing Animation">
 </p>
 
 
