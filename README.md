@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-Frontend-focused Software Engineer with **3 years of experience** building performant, scalable web apps using **React, React Native, and full-stack technologies**.  
+Frontend-focused Software Engineer with **4 years of experience** building performant, scalable web apps using **React, React Native, and full-stack technologies**.  
 Proven ability to deliver high-impact features in enterprise and startup settings, with a strong foundation in **component architecture**, **performance optimization**, and **collaborative Agile workflows**.
 
 ---
@@ -55,8 +55,11 @@ Proven ability to deliver high-impact features in enterprise and startup setting
 
 ## 💼 Experience
 
+### **Senior Software Engineer** — Sprinklr  
+*Nov 2025 – Present*  
+
 ### **Software Engineer** — Toddle, Bangalore  
-*Jun 2023 – Present*  
+*Jun 2023 – Nov 2025*  
 - Built a fully **timezone-aware system** across backend & frontend, onboarding 10+ international schools in 3 months.  
 - Led development of **Class Planner** (drag & drop, assignment sharing, PDF export) with seamless UX.  
 - Reduced app load time by **400ms** and bundle size by **30%** via optimizations.  
