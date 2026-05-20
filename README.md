@@ -57,6 +57,13 @@ Proven ability to deliver high-impact features in enterprise and startup setting
 
 ### **Senior Software Engineer** — Sprinklr  
 *Nov 2025 – Present*  
+- Leading a team of 3 developers to build and scale sprinklr.com using Next.js and TypeScript.
+- Architected CMS integration with Contentful, enabling scalable publishing workflows.
+- Owned end-to-end AWS infrastructure including deployment pipelines, CDN delivery, and storage optimization.
+- Built CI/CD pipelines using AWS CodeBuild and CodePipeline.
+- Implemented automated failure notification systems integrated with Microsoft Teams.
+- Reduced S3 storage from 65TB to 1TB, saving $15,000+ annually.
+- Serving 125M+ monthly requests through CloudFront CDN infrastructure.
 
 ### **Software Engineer** — Toddle, Bangalore  
 *Jun 2023 – Nov 2025*  
